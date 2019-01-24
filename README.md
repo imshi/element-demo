@@ -4,12 +4,6 @@
 
 美食的网站设计，使用的element框架。
 
-![home](http://d2.freep.cn/3tb_161215192118aivt580819.png)
-
-![submit](http://d3.freep.cn/3tb_1612151921158q2i580819.png)
-
-![like](http://d3.freep.cn/3tb_161215192114jqyy580819.png)
-
 ## Start
 
  - Clone or download this repository
